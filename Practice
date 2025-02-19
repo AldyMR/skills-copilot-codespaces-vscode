@@ -1,0 +1,13 @@
+.devcontainer/devcontainer.json
+{
+//First Configuration
+"name" : "Codespace for Skills!",
+"costumizations" :{
+"vscode" : {
+"extensions" : [
+"Github.copilot"
+  ]
+
+      }
+    }
+  }
